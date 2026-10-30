@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: #f8f7f4;
+  --color-ink: #252924;
+  --color-muted: #61665e;
+  --color-line: #d9dcd3;
+  --color-accent: #9e3c25;
+  --color-accent-soft: #f9e9e2;
+  --font-sans: "Segoe UI", Arial, sans-serif;
+  --font-display: Georgia, "Times New Roman", serif;
+}
